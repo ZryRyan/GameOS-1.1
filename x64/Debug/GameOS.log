@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(687,5): error : 元素 <RuntimeLibrary> 具有无效值“多线程调试 (/MDd)”。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(687,5): error MSB6011: 传递给 Microsoft.Build.CPPTasks.CL 任务的参数无效。
